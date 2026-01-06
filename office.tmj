@@ -567,7 +567,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.666333333333,
                  "x":575.666666666667,
@@ -589,6 +589,11 @@
                          "value":"Admin"
                         }, 
                         {
+                         "name":"bbbTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
@@ -604,7 +609,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.666,
                  "x":256.667,
@@ -641,7 +646,7 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126.666,
                  "x":417.333666666667,
