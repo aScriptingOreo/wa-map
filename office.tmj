@@ -537,19 +537,29 @@
                  "y":544
                 }, 
                 {
-                 "height":191.333333333333,
-                 "id":20,
+                 "height":190.666333333333,
+                 "id":22,
                  "name":"Cube3",
                  "properties":[
                         {
+                         "name":"bbbMeeting",
+                         "type":"string",
+                         "value":"Cube3"
+                        }, 
+                        {
+                         "name":"bbbMeetingAdminTag",
+                         "type":"string",
+                         "value":"Admin"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
                         }, 
                         {
-                         "name":"meetingRoom",
+                         "name":"meetingName",
                          "type":"string",
-                         "value":"{\"name\": \"hobbies_cube\"}"
+                         "value":"Peace Room"
                         }, 
                         {
                          "name":"zoomMargin",
@@ -559,51 +569,34 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":127.333333333333,
-                 "x":574,
-                 "y":31.3333333333333
+                 "width":126.666333333333,
+                 "x":575.666666666667,
+                 "y":30.9966666666667
                 }, 
                 {
-                 "height":191.333,
-                 "id":21,
-                 "name":"Cube2",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"meetingRoom",
-                         "type":"string",
-                         "value":"{\"name\": \"cozy_cube\"}"
-                        }, 
-                        {
-                         "name":"zoomMargin",
-                         "type":"float",
-                         "value":0.5
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":127.333,
-                 "x":416,
-                 "y":32.33
-                }, 
-                {
-                 "height":191.333,
-                 "id":22,
+                 "height":190.666,
+                 "id":24,
                  "name":"Cube1",
                  "properties":[
                         {
+                         "name":"bbbMeeting",
+                         "type":"string",
+                         "value":"Cube1"
+                        }, 
+                        {
+                         "name":"bbbMeetingAdminTag",
+                         "type":"string",
+                         "value":"Admin"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
                         }, 
                         {
-                         "name":"meetingRoom",
+                         "name":"meetingName",
                          "type":"string",
-                         "value":"{\"name\": \"traveling_cube\"}"
+                         "value":"Lilac Room"
                         }, 
                         {
                          "name":"zoomMargin",
@@ -613,9 +606,46 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":127.333,
-                 "x":257,
-                 "y":32.33
+                 "width":126.666,
+                 "x":256.667,
+                 "y":31.3336666666667
+                }, 
+                {
+                 "height":190.666,
+                 "id":25,
+                 "name":"Cube2",
+                 "properties":[
+                        {
+                         "name":"bbbMeeting",
+                         "type":"string",
+                         "value":"Cube2"
+                        }, 
+                        {
+                         "name":"bbbMeetingAdminTag",
+                         "type":"string",
+                         "value":"Admin"
+                        }, 
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"World Room"
+                        }, 
+                        {
+                         "name":"zoomMargin",
+                         "type":"float",
+                         "value":0.5
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":126.666,
+                 "x":417.333666666667,
+                 "y":31.3336666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -698,7 +728,7 @@
          "y":0
         }],
  "nextlayerid":72,
- "nextobjectid":24,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
